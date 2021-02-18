@@ -23,3 +23,6 @@ gatsby develop
 ## Contributing
 
 We welcome your contributions! Please refer to our [contributing policies](https://github.com/rocky-linux/rockylinux.org/blob/main/CONTRIBUTING.md) prior to submitting pull requests.
+
+I've done a bug fix here.
+
